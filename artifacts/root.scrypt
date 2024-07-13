@@ -1,5 +1,4 @@
 
-
 contract Root {
   int square;
   constructor(int sq) {
